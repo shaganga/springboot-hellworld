@@ -5,7 +5,7 @@
 
     <groupId>com.dockerforjavadevelopers</groupId>
     <artifactId>hello-world</artifactId>
-     <version>${project.commit.short}</version>
+     <version>${project.version}</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
